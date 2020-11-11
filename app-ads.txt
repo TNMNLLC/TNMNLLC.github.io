@@ -1,3 +1,4 @@
+aps.amazon.com, 17408316, DIRECT
 chartboost.com, 5f5c41c3c2c1b308dcf36a75, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
